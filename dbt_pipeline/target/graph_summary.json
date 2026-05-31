@@ -1,0 +1,1 @@
+{"_invocation_id": "e7f21b56-95a2-4ec7-9aa5-94e2e9c074c7", "linked": {"0": {"name": "model.dbt_pipeline.ventes_clean", "type": "model", "succ": [1]}, "1": {"name": "model.dbt_pipeline.ventes_resume", "type": "model"}}}
